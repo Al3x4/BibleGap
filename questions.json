@@ -1,0 +1,86 @@
+questions = [
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "1",
+   "text": "In the beginning God created the __ and the __.",
+   "answer": "heaven, earth"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "2",
+   "text": "And the __ was without form, and void; and darkness was upon the face of the deep. And the __ of God moved upon the face of the waters.",
+   "answer": "earth, Spirit"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "3",
+   "text": "And __ said, Let there be __: and there was light.",
+   "answer": "God, light"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "4",
+   "text": "And God saw the light, that it was __: and God divided the light from the __.",
+   "answer": "good, darkness"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "5",
+   "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were __ the  day.",
+   "answer": "first"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "6",
+   "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the __.",
+   "answer": "waters"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "7",
+   "text": "And God made the firmament, and divided the waters which were under the __ from the waters which were above the __: and it was so.",
+   "answer": "firmament, firmament"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "8",
+   "text": "And God called the firmament __. And the evening and the morning were the second day.",
+   "answer": "Heaven"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "9",
+   "text": "And God said, Let the __ under the heaven be gathered together unto one place, and let the dry __ appear: and it was so.",
+   "answer": "waters, land"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "10",
+   "text": "And God called the dry land __; and the gathering together of the waters called he __: and God saw that it was good.",
+   "answer": "Earth, Seas"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "14-15",
+   "text": "And God said, Let there be lights in the firmament of the heaven to divide the __ from the __; and let them be for signs, and for seasons, and for days, and years: And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
+   "answer": "day, night"
+ },
+ {
+   "book": "Genesis",
+   "chapter": 1,
+   "verse": "16",
+   "text": "And God made two great lights; the greater light to rule the __, and the lesser light to rule the __: he made the __ also.",
+   "answer": "day, night, stars"
+ }
+]

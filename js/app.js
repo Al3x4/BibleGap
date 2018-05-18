@@ -48,5 +48,8 @@ document.querySelector("#submitAnswer").addEventListener("click", checkAnswer);
 
 }
 
+//TODO - display score, correct answer when a mistake was made - easy
 
-//TODO - make sure the index doesnt repeat bu sto
+//TODO - make sure the index doesnt repeat - medium
+
+//call in the correct verse via API - HARD

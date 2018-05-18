@@ -1,0 +1,28 @@
+{
+  "name": "bible-quiz",
+  "version": "1.0.0",
+  "description": "a simple fill in the gap quiz, based on Bible verses\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[B\u001b[B\u001b[FV\u001b[B\u001b[F\u001b[D\u001b[C\u001b[B\u001b[C\u001b[D\u001b[v\u001b[D\u001b[F\u001b[H\u001b[H\u001b[F\u001b[F\u001b[B\u001b[B\u001b[B\u001b[B\u001b[C\u001b[F\u001b[F\u001b[F\u001b[F\u001b[H\u001b[H\u001b[H\u001b[F\u001b[F\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C.",
+  "main": "\u001b[D\u001b[D\u001b[C\u001b[Cindex.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al3x4/BibleGap.git"
+  },
+  "keywords": [
+    "bible",
+    "quiz"
+  ],
+  "author": "Alex R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al3x4/BibleGap/issues"
+  },
+  "homepage": "https://github.com/Al3x4/BibleGap#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-watch": "^5.0.0"
+  }
+}
